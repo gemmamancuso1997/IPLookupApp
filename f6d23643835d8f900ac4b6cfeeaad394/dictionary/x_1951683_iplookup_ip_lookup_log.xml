@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1509443f8315c3d00ac4b6cfeeaad3e9" label="IP Lookup Log" max_length="40" name="x_1951683_iplookup_ip_lookup_log" type="collection">
+        <element label="Cognome" max_length="40" name="cognome" type="string"/>
+        <element label="Nome" max_length="40" name="nome" type="string"/>
+    </element>
+</database>
